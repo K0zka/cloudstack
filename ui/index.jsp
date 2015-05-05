@@ -1743,7 +1743,6 @@
 
         <!-- localized messages -->
         <jsp:include page="dictionary.jsp" />
-        <jsp:include page="dictionary2.jsp" />
 
         <script src="lib/excanvas.js" type="text/javascript"></script>
         <script src="lib/flot/jquery.flot.js" type="text/javascript"></script>
